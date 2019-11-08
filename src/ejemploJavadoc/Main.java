@@ -1,6 +1,5 @@
-package javadoc.ejemploDocumentacion;
+package ejemploJavadoc;
 
-import javadoc.ejemploDocumentacion.negocio.Cuadrado;
 
 /**
  * Programa que inicia el proyecto de ejemplo de JavaDoc

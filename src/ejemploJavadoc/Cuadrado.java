@@ -1,4 +1,4 @@
-package javadoc.ejemploDocumentacion.negocio;
+package ejemploJavadoc;
 
 /**
  * Clase cuadrado. Atributos lado y área
